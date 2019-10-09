@@ -1,0 +1,6 @@
+.vscode
+environment
+tests/generated
+profiles
+*.html
+*.xml
